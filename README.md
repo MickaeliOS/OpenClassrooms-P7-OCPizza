@@ -1,6 +1,6 @@
 # OpenClassrooms-P7-OCPizza
 
-In the seventh project of OpenClassrooms, our focus is on creating the technical specifications for OCPizza. 
+In the seventh project of OpenClassrooms, our focus is on creating the technical specifications for OCPizza.  
 This exercise provides an opportunity to familiarize ourselves with several important concepts:
 
 1. Database Design:
